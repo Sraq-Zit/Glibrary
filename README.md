@@ -1,1 +1,2 @@
 # Glibrary
+version[1]
