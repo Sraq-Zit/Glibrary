@@ -1,2 +1,2 @@
-# Glibrary
-version[1]
+# Glibrary ver[1]
+
